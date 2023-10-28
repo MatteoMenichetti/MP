@@ -1,2 +1,2 @@
 # MP
-this is my second complex project
+Progetto svolto per il corso Metodologie di Programmazione
